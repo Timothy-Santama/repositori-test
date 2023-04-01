@@ -1,1 +1,2 @@
 ga ada isinya, hanya mau tes aja
+aku hanya mau bilang, bahagia kali bisa upload dan read file github dengan python
